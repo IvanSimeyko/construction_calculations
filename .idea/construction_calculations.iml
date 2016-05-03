@@ -2,7 +2,6 @@
 <module type="PYTHON_MODULE" version="4">
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$" />
-    <orderEntry type="jdk" jdkName="Python 2.7.9 virtualenv at C:\Users\ivan\env\calculations" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="blog (Конфликтующая копия с компьютера ivan-Lenovo-G40-30 2015-06-18)" />
   </component>
